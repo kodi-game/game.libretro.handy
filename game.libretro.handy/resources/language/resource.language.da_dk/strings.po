@@ -22,9 +22,9 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Color Depth (Restart)"
+msgid "Display Rotation"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Display Rotation"
+msgid "Color Depth (Restart)"
 msgstr ""
