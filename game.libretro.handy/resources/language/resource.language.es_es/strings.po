@@ -38,3 +38,11 @@ msgstr "Rotación de Pantalla"
 msgctxt "#30002"
 msgid "Color Depth (Restart)"
 msgstr "Profundidad de Color (Reinicio)"
+
+msgctxt "#30003"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Frameskip Threshold (%)"
+msgstr ""
