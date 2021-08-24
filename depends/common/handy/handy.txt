@@ -1,1 +1,1 @@
-handy https://github.com/libretro/libretro-handy/archive/358f50b22a722427d5fe73a372e6a27c24ac5a8c.zip
+handy https://github.com/libretro/libretro-handy/archive/39a84f93e839f22a8c1f5ea35b80e910183476ce.tar.gz
