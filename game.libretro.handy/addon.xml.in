@@ -15,8 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Atari - Lynx (Handy) 0.97</summary>
-		<description lang="en_GB">Handy is an Atari Lynx emulator by K. Wilkins for Windows 95/98/NT/2000/XP.
 
 Supported files: .lnx, .o</description>
 		<license>Zlib</license>
@@ -28,5 +26,9 @@ Supported files: .lnx, .o</description>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Atari - Lynx (Handy) 0.97</summary>
+		<description lang="en_GB">Handy is an Atari Lynx emulator by K. Wilkins for Windows 95/98/NT/2000/XP.
+
+Supported files: .lnx, .o</description>
 	</extension>
 </addon>
