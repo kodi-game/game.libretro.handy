@@ -34,7 +34,7 @@ msgid "Display Rotation"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Color Depth (Restart)"
+msgid "Color Depth (Restart Required)"
 msgstr ""
 
 msgctxt "#30003"
