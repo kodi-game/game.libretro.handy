@@ -30,20 +30,32 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Display Rotation"
-msgstr "Rotación de Pantalla"
+msgid "Video Refresh Rate"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Color Depth (Restart Required)"
+msgid "Display Rotation"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip"
+msgid "Color Depth (Restart Required)"
 msgstr ""
 
 msgctxt "#30004"
+msgid "LCD Ghosting Filter"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Display Rotation"
+#~ msgstr "Rotación de Pantalla"
 
 #~ msgctxt "#30002"
 #~ msgid "Color Depth (Restart)"

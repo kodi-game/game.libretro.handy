@@ -30,20 +30,44 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Display Rotation"
-msgstr "Skærmrotation"
+msgid "Video Refresh Rate"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Color Depth (Restart Required)"
-msgstr "Farvedybde (genstart påkrævet)"
+msgid "Display Rotation"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip"
-msgstr "Spring frame over"
+msgid "Color Depth (Restart Required)"
+msgstr ""
 
 msgctxt "#30004"
+msgid "LCD Ghosting Filter"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Tærskel når der springes en frame over (%)"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Display Rotation"
+#~ msgstr "Skærmrotation"
+
+#~ msgctxt "#30002"
+#~ msgid "Color Depth (Restart Required)"
+#~ msgstr "Farvedybde (genstart påkrævet)"
+
+#~ msgctxt "#30003"
+#~ msgid "Frameskip"
+#~ msgstr "Spring frame over"
+
+#~ msgctxt "#30004"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "Tærskel når der springes en frame over (%)"
 
 #~ msgctxt "#30002"
 #~ msgid "Color Depth (Restart)"
