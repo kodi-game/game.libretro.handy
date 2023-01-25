@@ -13,7 +13,7 @@ Zlib
 
 ### Icon
 
-![Icon](game.libretro.handy/resources/icon.png)
+![Atari - Lynx (Handy) icon](game.libretro.handy/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.handy/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.handy/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.handy/resources/screenshot-03.jpg)
+![Atari - Lynx (Handy) screenshot](game.libretro.handy/resources/screenshot-01.jpg)
+![Atari - Lynx (Handy) screenshot](game.libretro.handy/resources/screenshot-02.jpg)
+![Atari - Lynx (Handy) screenshot](game.libretro.handy/resources/screenshot-03.jpg)
