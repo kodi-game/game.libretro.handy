@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - Lynx (Handy) 0.97"
+msgid "Atari - Lynx (Handy)"
 msgstr ""
 
 msgctxt "Addon Description"
