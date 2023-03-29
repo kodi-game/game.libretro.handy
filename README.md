@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.handy.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.handy)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.handy?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-handy)
-
 # Atari - Lynx (Handy)
 
 ### Description
