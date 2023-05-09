@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Atari - Lynx (Handy)</summary>
 		<summary lang="en_GB">Atari - Lynx (Handy)</summary>
 		<summary lang="es_ES">Atari - Lynx (Handy)</summary>
 		<description lang="da_DK">Handy er en Atari Lynx-emulator af K. Wilkins til Windows 95/98/NT/2000/XP.</description>
