@@ -2,9 +2,10 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="handy_refresh_rate" values="60|50|75|100|120" default="60"/>
-		<setting label="30002" type="select" id="handy_rot" values="None|270|90" default="None"/>
+		<setting label="30002" type="select" id="handy_rot" values="Auto|None|270|180|90" default="Auto"/>
 		<setting label="30003" type="select" id="handy_gfx_colors" values="16bit|24bit" default="16bit"/>
 		<setting label="30004" type="select" id="handy_lcd_ghosting" values="disabled|2frames|3frames|4frames" default="disabled"/>
+		<setting label="30007" type="select" id="handy_overclock" values="1|2|3|4|5|6|7|8|9|10|20|30|40|50" default="1"/>
 		<setting label="30005" type="select" id="handy_frameskip" values="disabled|auto|manual" default="disabled"/>
 		<setting label="30006" type="select" id="handy_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
 	</category>
