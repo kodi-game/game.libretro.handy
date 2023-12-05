@@ -53,6 +53,10 @@ msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr "Umbral de salto de cuadros (%)"
 
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier"
+msgstr ""
+
 #~ msgctxt "#30003"
 #~ msgid "Frameskip"
 #~ msgstr "Saltar cuadros"

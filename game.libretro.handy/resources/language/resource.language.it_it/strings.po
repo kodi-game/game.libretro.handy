@@ -52,3 +52,7 @@ msgstr "Salto fotogrammi"
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr "Soglia di salto fotogrammi (%)"
+
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier"
+msgstr ""

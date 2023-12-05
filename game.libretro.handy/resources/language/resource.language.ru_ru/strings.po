@@ -53,6 +53,10 @@ msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr "Пороговый уровень пропуска кадров (%)"
 
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier"
+msgstr ""
+
 #~ msgctxt "#30003"
 #~ msgid "Frameskip"
 #~ msgstr "Пропуск кадров"

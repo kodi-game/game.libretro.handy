@@ -52,3 +52,7 @@ msgstr "Frameskip"
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr "Frameskip-Schwellenwert (%)"
+
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier"
+msgstr ""

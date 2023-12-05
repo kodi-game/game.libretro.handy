@@ -53,6 +53,10 @@ msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
 msgstr "帧跳过阈值（%）"
 
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Display Rotation"
 #~ msgstr "显示旋转"
