@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="handy_refresh_rate" values="60|50|75|100|120" default="60"/>
 		<setting label="30002" type="select" id="handy_rot" values="Auto|None|270|180|90" default="Auto"/>
 		<setting label="30003" type="select" id="handy_gfx_colors" values="16bit|24bit" default="16bit"/>
