@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Handy is an Atari Lynx emulator by K. Wilkins for Windows 95/98/NT/2000/XP."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Video Refresh Rate"
 msgstr ""

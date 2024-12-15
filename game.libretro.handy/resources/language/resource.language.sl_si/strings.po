@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Handy is an Atari Lynx emulator by K. Wilkins for Windows 95/98/NT/2000/XP."
 msgstr "Handy je emulator Atari Lynx K. Wilkinsa za Windows 95/98/NT/2000/XP."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Video Refresh Rate"
 msgstr "Hitrost osveževanja videa"
@@ -56,3 +52,7 @@ msgstr "Prag preskoka okvirja (%)"
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
 msgstr "Množitelj za overclock CPE"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
