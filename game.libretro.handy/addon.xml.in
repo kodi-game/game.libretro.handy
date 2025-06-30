@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.handy"
 		name="Atari - Lynx (Handy)"
-		version="0.97.0.44"
+		version="0.97.0.45"
 		provider-name="K. Wilkins">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,8 +10,8 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Lynx</platforms>
-		<extensions>lnx|o</extensions>
-		<supports_vfs>false</supports_vfs>
+		<extensions>lnx|lyx|o</extensions>
+		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>false</requires_opengl>
 	</extension>
