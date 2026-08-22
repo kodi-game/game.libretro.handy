@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.handy\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2026-07-06 08:13+0000\n"
+"PO-Revision-Date: 2026-08-22 21:02+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-handy/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - Lynx (Handy)"
@@ -52,3 +52,95 @@ msgstr "Práh přeskakování snímků (%)"
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
 msgstr "Násobitel přetaktování CPU"
+
+msgctxt "#30008"
+msgid "Set video update frequency. Internally, the Lynx renders at a variable rate from 0 to 75Hz. Frames that occur between video update events will be dropped. Higher rates may increase video smoothness (depending on actual game frame rate) but can cause tearing on 60Hz displays."
+msgstr "Nastaví frekvenci aktualizace videa. Lynx interně vykresluje proměnlivou frekvencí od 0 do 75 Hz. Snímky vzniklé mezi událostmi aktualizace videa se zahodí. Vyšší frekvence mohou zvýšit plynulost videa (podle skutečné frekvence snímků hry), ale na displejích s frekvencí 60 Hz mohou způsobit trhání obrazu."
+
+msgctxt "#30009"
+msgid "50Hz"
+msgstr "50 Hz"
+
+msgctxt "#30010"
+msgid "60Hz"
+msgstr "60 Hz"
+
+msgctxt "#30011"
+msgid "75Hz"
+msgstr "75 Hz"
+
+msgctxt "#30012"
+msgid "100Hz"
+msgstr "100 Hz"
+
+msgctxt "#30013"
+msgid "120Hz"
+msgstr "120 Hz"
+
+msgctxt "#30014"
+msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
+msgstr "Otočí obrazovku virtuální konzole pro správné uspořádání her orientovaných na výšku na běžném (na šířku orientovaném) displeji."
+
+msgctxt "#30015"
+msgid "Auto"
+msgstr "Automaticky"
+
+msgctxt "#30016"
+msgid "Disabled"
+msgstr "Zakázáno"
+
+msgctxt "#30017"
+msgid "Clockwise"
+msgstr "Po směru hodinových ručiček"
+
+msgctxt "#30018"
+msgid "Bottom"
+msgstr "Dole"
+
+msgctxt "#30019"
+msgid "Anticlockwise"
+msgstr "Proti směru hodinových ručiček"
+
+msgctxt "#30020"
+msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
+msgstr "Určuje počet barev zobrazovaných na obrazovce. 24bitové barvy výrazně zvyšují režii výkonu a nejsou dostupné na všech platformách."
+
+msgctxt "#30021"
+msgid "Thousands (16-bit)"
+msgstr "Tisíce (16bitové)"
+
+msgctxt "#30022"
+msgid "Millions (24-bit)"
+msgstr "Miliony (24bitové)"
+
+msgctxt "#30023"
+msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
+msgstr "Použije efekt „doznívání obrazu“ smícháním několika po sobě jdoucích snímků videa. Napodobuje vlastnosti panelu LCD konzole Lynx a pomáhá vyhladit vzhled her s nízkou frekvencí snímků. Vyšší počet snímků efekt zlepší za cenu vyšší režie výkonu."
+
+msgctxt "#30024"
+msgid "2 Frames"
+msgstr "2 snímky"
+
+msgctxt "#30025"
+msgid "3 Frames"
+msgstr "3 snímky"
+
+msgctxt "#30026"
+msgid "4 Frames"
+msgstr "4 snímky"
+
+msgctxt "#30027"
+msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
+msgstr "Vyšší hodnoty mohou omezit zpomalování ve hrách. VAROVÁNÍ: Mohou způsobit chyby a pády."
+
+msgctxt "#30028"
+msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
+msgstr "Přeskakovat snímky, aby se zabránilo podtečení zvukové vyrovnávací paměti (praskání). Zlepší výkon za cenu plynulosti obrazu. „Automaticky“ přeskakuje snímky na doporučení frontendu. „Ručně“ používá nastavení „Práh přeskakování snímků (%)“."
+
+msgctxt "#30029"
+msgid "Manual"
+msgstr "Ručně"
+
+msgctxt "#30030"
+msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
+msgstr "Když je „Přeskakování snímků“ nastaveno na „Ručně“, určuje práh obsazení zvukové vyrovnávací paměti (procento), pod kterým se budou snímky přeskakovat. Vyšší hodnoty snižují riziko praskání tím, že způsobí častější vynechávání snímků."
