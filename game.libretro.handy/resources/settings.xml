@@ -47,7 +47,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30024">2frames</option>
 							<option label="30025">3frames</option>
 							<option label="30026">4frames</option>
@@ -83,7 +83,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30015">auto</option>
 							<option label="30029">manual</option>
 						</options>
