@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr ""
+msgstr "螢幕旋轉"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
@@ -43,11 +43,11 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "跳幀"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "跳幀上限 (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -83,11 +83,11 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
@@ -136,11 +136,13 @@ msgstr ""
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
 msgstr ""
+"設定跳幀用以避免音訊緩衝區不足(產生破音)。用影像流暢度為代價提高效能。\n"
+"設定 <自動> 由前端系統控制跳幀。設定 <手動> 由「跳幀上限 (%)」控制跳幀。"
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "設定「跳幀」為 <手動> 時音頻緩衝區使用上限(%)，低於上限的影格將被跳過。設定過高會導致頻繁丟失影格，過低則是出現破音。"

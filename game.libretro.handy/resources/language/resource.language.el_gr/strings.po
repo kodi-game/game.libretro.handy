@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Περιστροφή Οθόνης"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Βάθος Χρώματος (Απαιτείται Επανεκκίνηση)"
 
 msgctxt "#30004"
 msgid "LCD Ghosting Filter"
@@ -79,15 +79,15 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Περιστρέφει την οθόνη της εικονικής κονσόλας για να επιτύχει τη σωστή διάταξη των παιχνιδιών όπου έχουν προσανατολισμό «πορτρέτο» σε συμβατική οθόνη (landscape)."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
@@ -103,15 +103,15 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Καθορίστε τον αριθμό των χρωμάτων που θα εμφανίζονται στην οθόνη. Τα 24-bit μειώνουν σημαντικά την απόδοση και δεν είναι διαθέσιμα σε όλες τις πλατφόρμες."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Χιλιάδες (16-bit)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Εκατομμύρια (24-bit)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -139,7 +139,7 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "Χειροκίνητο"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

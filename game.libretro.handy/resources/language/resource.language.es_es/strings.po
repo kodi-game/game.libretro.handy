@@ -35,19 +35,19 @@ msgstr "Rotación de Pantalla"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
-msgstr "Profundidad de Color (Reinicio Requerido)"
+msgstr "Profundidad de color (es necesario reiniciar)"
 
 msgctxt "#30004"
 msgid "LCD Ghosting Filter"
-msgstr "Filtro de Imagen Fantasma para LCD"
+msgstr "Filtro de efecto fantasma («ghosting») de LCD"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr "Salto de Fotogramas"
+msgstr "Omisión de fotogramas"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Umbral de Salto de Fotogramas (%)"
+msgstr "Umbral de omisión de fotogramas (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Rota la pantalla virtual de la consola para mostrar correctamente los juegos con orientación vertical en una pantalla con orientación horizontal."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Selección automática"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "Girar a la derecha"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,19 +99,19 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "Girar a la izquierda"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Especifica el número de colores a mostrar en pantalla. 24 bits reduce significativamente la carga de la CPU y no se encuentra disponible en todas las plataformas."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Miles (16 bits)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Millones (24 bits)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Omite fotogramas para no saturar el búfer de audio (chasquidos en el sonido). Mejora el rendimiento a costa de perder fluidez visual. Selección automática omite fotogramas según lo aconseje el front-end. El valor Manual utiliza el ajuste Umbral de omisión de fotogramas (%)."
 
 msgctxt "#30029"
 msgid "Manual"
@@ -143,16 +143,16 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Cuando la omisión de fotogramas esté configurada como Manual, este ajuste especifica el umbral de ocupación del búfer de audio (en porcentaje) por debajo del cual se omitirán fotogramas si el valor. Un valor más elevado reduce el riesgo de chasquidos omitiendo fotogramas con una mayor frecuencia."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
 
 #~ msgctxt "#30001"
-#~ msgid "Display Rotation"
+#~ msgid "Video Refresh Rate"
 #~ msgstr "Rotación de Pantalla"
 
 #~ msgctxt "#30002"
-#~ msgid "Color Depth (Restart)"
-#~ msgstr "Profundidad de Color (Reinicio)"
+#~ msgid "Display Rotation"
+#~ msgstr "Rotación de imagen"

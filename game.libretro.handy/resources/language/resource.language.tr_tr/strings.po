@@ -31,23 +31,23 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Ekran Döndürme"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Renk Derinliği (Yeniden Başlatılmalı)"
 
 msgctxt "#30004"
 msgid "LCD Ghosting Filter"
-msgstr ""
+msgstr "LCD Gölgelenme Filtresi"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Kare Atlama"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Kare Atlama Eşiği (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Geleneksel (yatay) bir ekranda 'portre' odaklı oyunların doğru düzenini elde etmek için sanal konsol ekranını döndürün."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "Saat yönünde"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,19 +99,19 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "Saat yönünün tersi"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Ekranda görüntülenecek renk sayısını belirtin. 24 bit, genel performansı önemli ölçüde artırır ve tüm platformlarda kullanılamaz."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Binlerce (16-bit)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Milyonlarca (24-bit)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -135,12 +135,12 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Yetersiz çalıştırılan ses arabelleğini (çatırtı) önlemek için kareleri atlayın. Görsel pürüzsüzlük pahasına performansı iyileştirir. \"Otomatik\", ön uç tarafından önerildiğinde kareleri atlar. 'El ile', 'Kare Atlama Eşiği (%)' ayarını kullanır."
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "El ile"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "'Kare Atlama', 'El ile' olarak ayarlandığında, altındaki karelerin atlanacağı ses arabelleği doluluk eşiğini (yüzde) belirtir. Daha yüksek değerler, çerçevelerin daha sık düşmesine neden olarak çatlama riskini azaltır."

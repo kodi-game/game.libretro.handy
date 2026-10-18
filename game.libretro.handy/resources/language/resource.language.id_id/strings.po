@@ -79,15 +79,15 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Putar orientasi layar untuk mendapat tata letak yang betul pada permainan berlayar 'menegak' pada tampilan layar mendatar (landscape)."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Pilih kedalaman warna untuk ditampilkan di layar. Kedalaman warna 24-bit meningkatkan kinerja secara signifikan dan tidak tersedia di semua pelantar."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Saat 'Lewati Bingkai' diatur ke 'Manual', tentukan (persentase) ambang batas hunian penyangga audio di bawah untuk bingkai mana yang dilewati. Nilai yang lebih tinggi mengurangi risiko keretakan dengan cara membuat laju bingkai sering anjlok."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

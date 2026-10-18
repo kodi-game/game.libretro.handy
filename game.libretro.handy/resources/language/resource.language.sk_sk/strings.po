@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Rotácia displeja"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
@@ -43,11 +43,11 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Preskočenie snímky"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Prah preskočenia snímky (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,7 +79,7 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Otočiť virtuálnu obrazovku konzoly a dosiahnuť tak správne rozloženie hier orientovaných na výšku na bežnej obrazovke orientovanej na šírku."
 
 msgctxt "#30015"
 msgid "Auto"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Zvoliť farebnú hĺbku. 24 bitov značne zvýši výkonnostné réžie a nie je dostupná na všetky platformách."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
@@ -139,8 +139,8 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "Ručne"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ak je 'Preskočenie snímkov' nastavené na 'Ručne', určuje obsadenosť zvukového zásobníka (v percentách) pod ktorou budú snímky preskočené. Vyššie hodnoty znižujú riziko praskania za cenu zahodenia snímkov častejšie."

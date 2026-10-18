@@ -43,11 +43,11 @@ msgstr "LCD 重影滤波器"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr "帧跳过"
+msgstr "跳帧"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "帧跳过阈值（%）"
+msgstr "跳帧阈值(%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "如果想要在横屏的显示器上竖屏显示游戏，请旋转你的模拟器屏幕。"
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "顺时针"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,19 +99,19 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "逆时针"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "指定屏幕显示的颜色数量。设置为「24 位」将极大提高性能开销，且仅部分平台可用。"
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "千位级(16-bit)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "百万位级(24-bit)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -135,32 +135,32 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "跳过帧以避免运行下的音频缓冲区(崩溃)。提高性能以牺牲视觉性能。 “自动”跳板帧在前端建议时。“手动”使用了“Frameskip 阈值(%)”设置。"
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "手工"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "当“跳帧”功能设置成“手动”，请在下方指定跳帧占音频缓存的比例（百分比）。更高的值可以降低因频繁丢帧而导致的爆音风险。"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"
 
 #~ msgctxt "#30001"
-#~ msgid "Display Rotation"
+#~ msgid "Video Refresh Rate"
 #~ msgstr "显示旋转"
 
 #~ msgctxt "#30002"
-#~ msgid "Color Depth (Restart Required)"
-#~ msgstr "色深（需要重新启动）"
+#~ msgid "Display Rotation"
+#~ msgstr "显示旋转"
 
 #~ msgctxt "#30003"
-#~ msgid "Frameskip"
-#~ msgstr "帧跳过"
+#~ msgid "Color Depth (Restart Required)"
+#~ msgstr "色深(需要重启)"
 
 #~ msgctxt "#30004"
-#~ msgid "Frameskip Threshold (%)"
-#~ msgstr "帧跳过阈值（%）"
+#~ msgid "LCD Ghosting Filter"
+#~ msgstr "LCD重影过滤器"

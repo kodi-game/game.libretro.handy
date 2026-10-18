@@ -83,11 +83,11 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"

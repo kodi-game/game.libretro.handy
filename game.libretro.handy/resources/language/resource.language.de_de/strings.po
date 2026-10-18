@@ -31,7 +31,7 @@ msgstr "Bildwiederholfrequenz"
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr "Bildschirmdrehung"
+msgstr "Bildschirmrotation"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
@@ -47,7 +47,7 @@ msgstr "Frameskip"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Frameskip-Schwellenwert (%)"
+msgstr "Frameskip Grenzwert (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Den virtuellen Konsolen-Bildschirm drehen, um das richtige Layout von Spielen im Hochformat auf einem herkömmlichen (Quer-) Display zu erzielen."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "Im Uhrzeigersinn"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,19 +99,19 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "Gegen den Uhrzeigersinn"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Anzahl der Farben angeben, die auf dem Bildschirm angezeigt werden sollen. 24-Bit erhöht den Leistungsaufwand erheblich und ist nicht auf allen Plattformen verfügbar."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tausende (16 Bit)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Millionen (24 Bit)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -135,15 +135,15 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Überspringen Sie Frames um zu vermeiden, dass Audio-Puffer unterlaufen (Knistern). Verbessert die Leistung auf Kosten der visuellen Glätte. 'Auto' überspringt Frames wenn vom Frontend empfohlen wird. 'Manuell' verwendet die Einstellung 'Frameskip Grenzwert (%)'."
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gibt den Audiopuffer-Belegungsschwellenwert (Prozent) an, unter dem Frames übersprungen werden, wenn 'Frameskip' auf 'Manual' eingestellt ist. Höhere Werte verringern das Risiko von Knistern, da Frames häufiger weggelassen werden."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

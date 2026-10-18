@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr "Ruudun kääntö"
+msgstr "Näytön kierto"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
@@ -43,11 +43,11 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr "Kuvaohitus"
+msgstr "Kuvanohitus"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Kuvaohituskynnys (%)"
+msgstr "Kuvienohituksen arvo (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Kierrä virtuaalikonsolin näyttöä saadaksesi oikean ulkoasun tavallisella vaakatasonäytöllä sellaisille peleille, joiden oletuksena on pystykuvanäyttö."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "Myötäpäivään"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,19 +99,19 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "Vastapäivään"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Määritä ruudulla näytettävien värien määrä. 24-bittinen kuormittaa suorituskykyä merkittävästi eikä ole käytettävissä kaikilla alustoilla."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tuhansissa (16-bit)"
 
 msgctxt "#30022"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Miljoonissa (24-bittinen)"
 
 msgctxt "#30023"
 msgid "Apply an image 'ghosting' effect by blending multiple successive video frames. Mimics the display characteristics of the Lynx's LCD panel and helps to smooth the appearance of low frame rate games. Higher frame counts improve the effect at the expense of increased performance overheads."
@@ -135,28 +135,28 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ohita kuvia välttääksesi äänipuskurin ali ajon (säröily). Parantaa suorituskykyä visuaalisen tasaisuuden kustannuksella. \"Automaatti\" ohittaa kehykset käyttöliittymän asetusten mukaan. \"Manuaalinen\" käyttää \"Kuvienohituksen arvo (%)\" -asetusta."
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "Manuaalinen"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Kun \"kehyksen ohitus\" on asetettu \"manuaaliksi\", määrittää äänipuskuri käyttökynnyksen (prosentteina), jonka alapuolella kehykset ohitetaan. Korkeammat arvot vähentävät särkymisen riskiä siten, että kehykset putoavat useammin."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Asetukset"
 
 #~ msgctxt "#30001"
-#~ msgid "Display Rotation"
+#~ msgid "Video Refresh Rate"
 #~ msgstr "Ruudun kääntö"
 
 #~ msgctxt "#30003"
-#~ msgid "Frameskip"
-#~ msgstr "Kuvaohitus"
+#~ msgid "Color Depth (Restart Required)"
+#~ msgstr "Värisyvyys (Uudelleenkäynnistys vaaditaan)"
 
 #~ msgctxt "#30004"
-#~ msgid "Frameskip Threshold (%)"
+#~ msgid "LCD Ghosting Filter"
 #~ msgstr "Kuvaohituskynnys (%)"

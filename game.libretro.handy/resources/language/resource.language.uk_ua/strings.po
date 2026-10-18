@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Обертання екрану"
 
 msgctxt "#30003"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Глибина кольору (потрібен перезапуск)"
 
 msgctxt "#30004"
 msgid "LCD Ghosting Filter"
@@ -43,11 +43,11 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Пропуск кадру"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Межа пропуску кадрів (%)"
 
 msgctxt "#30007"
 msgid "CPU Overclock Multiplier"
@@ -79,19 +79,19 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "Повертає екран віртуальної консолі, для вірного відображення портретно-орієнтованих ігор на дисплеї з альбомною орієнтацією."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
-msgstr ""
+msgstr "За годин. стрілкою"
 
 msgctxt "#30018"
 msgid "Bottom"
@@ -99,11 +99,11 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Anticlockwise"
-msgstr ""
+msgstr "Проти годин. стрілки"
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "Вказує кількість кольорів, які будуть відображатись на екрані. 24-бітна палітра суттєво впливає на продуктивність та доступна не на всіх платформах."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
@@ -135,12 +135,12 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Пропускати кадри, щоб уникнути спустошення буферу (тріскіт). Покращує швидкодію, погіршуючи плавність зображення. 'Авто' пропускає кадри, керуючись командами зовнішньої оболонки. 'Ручний' використовує налаштування 'Межа пропуску кадрів (%)'."
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Якщо 'Пропус кадрів' встановлено у 'Вручну', зазначає граничне значення оточення аудіо-буферу (відсоток), нижчі за які кадри будуть пропущені. Більш високі значення зменшують ризик зломування, викликаючи зменшення кадрів частіше."

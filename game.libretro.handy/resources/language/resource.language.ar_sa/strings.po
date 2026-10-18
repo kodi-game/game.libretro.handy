@@ -79,15 +79,15 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Rotate the virtual console screen to achieve the correct layout of 'portrait' oriented games on a conventional (landscape) display."
-msgstr ""
+msgstr "تدوير شاشة وحدة التحكم الافتراضية لتحقيق التخطيط الصحيح للألعاب \"عمودية\" على العرض التقليدي (الأفقي)."
 
 msgctxt "#30015"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr ""
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Specify number of colors to display on-screen. 24-bit significantly increases performance overheads and is not available on all platforms."
-msgstr ""
+msgstr "حدد عدد الألوان لعرضها على الشاشة. 24 بت يزيد بشكل كبير من النفقات العامة للأداء، وهو غير متوفر على جميع المنصات."
 
 msgctxt "#30021"
 msgid "Thousands (16-bit)"
@@ -139,8 +139,8 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Manual"
-msgstr ""
+msgstr "يدوي"
 
 msgctxt "#30030"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "عندما يتم تعيين 'Frameskip' إلى 'يدوي'، يحدد عتبة شغل التخزين المؤقت الصوتي (النسبة المئوية) التي سيتم تخطي الأطر أدناه. فارتفاع القيم يقلل من خطر التشويش بالتسبب في انخفاض الأطر بصورة أكثر تواترا."
