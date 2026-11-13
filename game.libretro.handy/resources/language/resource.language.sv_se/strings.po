@@ -87,7 +87,7 @@ msgstr "Automatiskt"
 
 msgctxt "#30016"
 msgid "Disabled"
-msgstr "Inaktiverad"
+msgstr "disabled"
 
 msgctxt "#30017"
 msgid "Clockwise"
